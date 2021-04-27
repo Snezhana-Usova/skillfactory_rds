@@ -158,7 +158,7 @@ pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pycrypto==2.6.1
 pycurl==7.43.0.5
 pyflakes==2.2.0
-Pygments==2.6.1
+Pygments==2.7.4
 pylint @ file:///opt/concourse/worker/volumes/live/9eebf2dc-3c74-4778-701c-c55b13929def/volume/pylint_1598624018844/work
 pyodbc===4.0.0-unsupported
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
