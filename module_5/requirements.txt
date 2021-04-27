@@ -81,7 +81,7 @@ isort @ file:///opt/concourse/worker/volumes/live/e7eb0d6d-5d58-493b-6745-1e58f3
 itsdangerous==1.1.0
 jdcal==1.4.1
 jedi==0.13.3
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
 json5==0.9.5
 jsonschema==3.2.0
