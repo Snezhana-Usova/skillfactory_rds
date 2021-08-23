@@ -94,7 +94,7 @@ jupyter-core==4.6.3
 jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.4
 jupyter-nbextensions-configurator==0.4.1
-jupyterlab==2.2.6
+jupyterlab==2.2.10
 jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
 keyring @ file:///opt/concourse/worker/volumes/live/7108e9bd-0849-401b-7e59-437eb4fc5bf0/volume/keyring_1598884775781/work
 kiwisolver==1.2.0
