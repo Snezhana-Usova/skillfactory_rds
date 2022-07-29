@@ -106,7 +106,7 @@ lxml @ file:///opt/concourse/worker/volumes/live/0dfefafa-9e58-455e-535c-75e73a1
 MarkupSafe==1.1.1
 matplotlib @ file:///opt/concourse/worker/volumes/live/415740a8-e00a-411a-7129-aa05c3842a43/volume/matplotlib-base_1597876353062/work
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
